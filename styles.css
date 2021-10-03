@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+p {
+    font-family: monospace;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 12rem;
+}
+
+button {
+    padding: 1rem 2rem;
+}
